@@ -96,3 +96,5 @@ nodeSelector: {}
 tolerations: []
 
 affinity: {}
+
+namespace: "test-app"
